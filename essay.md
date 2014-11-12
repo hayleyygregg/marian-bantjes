@@ -1,16 +1,16 @@
 Marian Bantjes
 =====================
 
-The story of Canadian Graphic Artist, Marian Bantjes, is not all sunshine and rainbows, but inspirational and real life. With high's and lows Bantjes has overcome these times to achieve a dream of prominence, with a personal signature that shines through her work.
+The story of Canadian Graphic Artist, [Marian Bantjes](http://www.bantjes.com), is not all sunshine and rainbows, but inspirational and real life. With high's and lows Bantjes has overcome these times to achieve a dream of prominence, with a personal signature that shines through her work.
 
 
-The beginning of the journey was 1983, a year after dropping out of art school, named Emily Carr College at the time. Bantjes was 20, and unemployed. The turning point was when she discovered a job advertisement for publishing company Hartley & Marks in a second-hand bookstore, getting change for the bus. She was hired for photocopying and filing, later to be trained in paste-up and layout in the company's sibling, 'TypeWorks', which seen Bantjes develop into a typesetter. 
+The beginning of the journey was 1983, a year after dropping out of art school, named Emily Carr College at the time. Bantjes was 20, and unemployed. The turning point was when she discovered a job advertisement for publishing company [Hartley & Marks](http://www.hartleyandmarks.com) in a second-hand bookstore, while getting change for the bus. She was hired for photocopying and filing, later to be trained in paste-up and layout in the company's sibling, 'TypeWorks', which seen Bantjes develop into a typesetter. 
 
 > "...I have even considered, if my career falls apart, that I would love to work as a typesetter again for some really good designer."
 <!--cite-->
 Marian Bantjes Pretty Pictures 2013
 
-In 1993, after 10 years in the company, Bantjes found herself highly experienced in a trade that had become out-dated. Unable to find a job, she co-founded a design company with her friend called 'Communication by Design', which was re-named five years later to 'Digitopolis' after Bantjes confessing in a meeting she found the original name embarrassing. The first few years were fun, learning new things and successful growth of the business. However, there came a point where Bantjes began to question her role, being frustrated with having to design to clients' demands rather than doing what she wanted. At this time she began to look at what other people were doing that had never been seen in society before, and this sparked a motivation to escape the world of Graphic Design she had been disillusioned with.
+In 1993, after 10 years in the company, Bantjes found herself highly experienced in a trade that had become out-dated. Unable to find a job, she co-founded a design company with her friend called 'Communication by Design', which was re-named five years later to 'Digitopolis' after Bantjes confessing in a meeting she found the original name embarrassing. The first few years were fun, learning new things and experiencing successful growth of the business. However, there came a point where Bantjes began to question her role, being frustrated with having to design to clients' demands rather than doing what she wanted. At this time she began to look at what other people were doing that had never been seen in society before, and this sparked a motivation to escape the world of Graphic Design which she had become disillusioned with.
 
 > "The business became a kind of machine... the work was no longer this adventure, it was just work that never ended. I started not to care..."
 
@@ -20,10 +20,14 @@ Marian describes this time as her 'mid-life crisis', realising that looking back
 
 > "I left my company and a good income to do something more personal, more art-based and somehow closer to myself."
 
+20 years in GD and typo changed way was working and most GD work to persue a more personal approch to her work 
 
-Marian Bantjes Pretty Pictures 2013
 
-The sudden change of lifestyle proved tough for Bantjes, her income plummeted overnight and stayed that way for over a year. In desperation to get her work noticed outside her hometown of Vancouver, Canada, she made self-promotional pieces, sending them to designers she admired, with no reply. The same year Bantjes began 'hanging out' on a blog for designers called '[Speak Up](http://underconsideration.com)'. Although finding it hard financially, upon her departure from Digitopolis in July 2003, things seemed to look up for Bantjes, as several milestones took place:
+Marian Bantjes Pretty Pictures 2013 
+
+The sudden change from working 20 years in Graphic Design & Typography and the way most Graphic Designers work, to persue a more personal approach with the attempt to make a living doing something she loved proved tough for Bantjes, with her income plummeting overnight and staying that way for over a year.
+
+In desperation to get her work noticed outside her hometown of Vancouver, Canada, she made self-promotional pieces, sending them to designers she admired, with no reply. The same year Bantjes began 'hanging out' on a blog for designers called '[Speak Up](http://underconsideration.com)'. Although finding it hard financially, upon her departure from Digitopolis in July 2003, things seemed to look up for Bantjes, as several milestones took place:
 
 * Joining the Society of Graphic Designers of Canada (GDC) as Communications Chair, which gave Bantjes control of design and production of print. Using this as a venture into carte-blanche design and freedom, she explored design without boundaries.
 
@@ -48,29 +52,42 @@ Bantjes got a lot of praise and attention for this piece, and even met Stefan Sa
 
 * The same year Bantjes was promoted to be an Author of Speak Up to give her own opinion on design instead of commenting on other members' posts. This benefitted her, as she became more recognised across North America. Bantjes credits this opportunity as a "significant factor" in her success.
 
-Despite becoming more recognised in the design world, Bantjes still wasn't getting much work, and after living off her savings, she decided to take out a loan to buy more time. This paid off (excuse the pun) as she got her first paid assignment in August 2004! The job was for Details Magazine, they had seen her design for the Speak Up T-shirt competition and asked for a similar design. Although overjoyed to finally have work, as any free-lance designer would be, Bantjes was a little bummed that the client basically wanted a copy of the T-shirt design.
+Despite becoming more recognised in the design world, Bantjes still wasn't getting much work, and after living off her savings, she decided to take out a loan to buy more time. This paid off (excuse the pun) as she got her first paid assignment in August 2004! The job was for Details Magazine, they had seen her design for the Speak Up T-shirt competition and asked for a similar design. Although overjoyed to finally have work, as any free-lance designer would be, Bantjes was disappointed that the client basically wanted a copy of the T-shirt design, rather than giving her the preferred choice of creative control.
 
 Shortly after work began to pick up, Bantjes continued to make self-promotional pieces and took advantage of contributing work to publications for 'free printing' opportunities. 
 
-An example is the typeface named 'Restraint' which originated from the idea of illustrating a poem, 'Survival Kit', she had written, in the form of a crossword.
+An example is the typeface named '[Restraint](http://tiro.com/Restraint/)' which originated from the idea of illustrating a poem, 'Survival Kit', she had written, in the form of a crossword.
 
-<!--restraint typeface caption won a Type Directors’ Club award in 2008-->
+<!--restraint typeface caption won a Type Directors’ Club award in 2008
+
+
+http://ilovetypography.com/img/2009/05/pic_restraint-2.jpg -->
 
 Restraining each letter to a square grid, she created a set of both horizontal and vertical connecting letters. Realising she needed variations of the ornamentations of letters in order to intersect words; she calculated this would mean she would have to create 10,140 characters. As that is crazy, she finally got the light blub idea of having one set of ornamented letters open at all sides, creating terminals that could be added when necessary.
 
-<!--no 5 in book-->
+<!--http://www.designindaba.com/sites/default/files/styles/scaledlarge/public/galleries-news/bantjes_restraint-promo.jpg?itok=z-enu0lE -->
 
 
 The lettering system was then used in a number of projects, including being turned into a font, used on her second business cards, a prototype for advertising a conference, 'Bad Type', at St Bridge Type Library in London and a poster competition for Speak Up. 
 
-<!--images?-->
+<!--images?
+
+http://www.bantjes.com/sites/default/files/images/pic_art-design.jpg
+
+http://www.bantjes.com/sites/default/files/images/pic_bad-type.gif 
+
+
+http://www.mohawkconnects.com/feltandwire/wp-content/uploads/2012/01/05_Bantjes.jpg
+
+
+-->
 
 
 A huge opportunity for Bantjes happened in 2004, when Emily Carr University asked her to teach Typography as a new course. She designed the 13-session course within two weeks, including preparing herself with the background knowledge of the history of typography and its designers that she had not been taught herself. She used this course for many years, with only minor adjustments, turning students that knew nothing about typography into self-described 'Type Nuts'.
 
-In 2007 Bantjes was overwhelmed with invitation to speak at the AIGA conference in Denver, to then being accepted as an official member in 2008. Now recognised internationally, Bantjes has been invited to speak, and had her work featured in various publications worldwide including IDEA (Japan), Eye (UK), Azure (Canada), DPI (Taiwan), Concept (Indonesia), +81 (Japan), 2+3D (Poland), Form (Germany) and D2B (Brazil) to name a few. In addition, she has helped to judge for many prestigious awards including D&AD (UK), TDC (NY) and ADC (NY), had her work featured in a number of design exhibitions besides three of her own and published books with Thames & Hudson including 'I Wonder' (2010) and 'Pretty Pictures' (2013).
+In 2007 Bantjes was overwhelmed with invitation to speak at the AIGA conference in Denver, to then being accepted as an official member in 2008. Now recognised internationally, Bantjes has been invited to speak, and had her work featured in various publications worldwide including IDEA (Japan), Eye (UK), Azure (Canada), DPI (Taiwan), Concept (Indonesia), +81 (Japan), 2+3D (Poland), Form (Germany) and D2B (Brazil) to name a few. In addition, she has helped to judge for many prestigious awards including D&AD (UK), TDC (NY) and ADC (NY), had her work featured in a number of design exhibitions besides three of her own and published books with Thames & Hudson including '[I Wonder](http://www.bantjes.com/project/i-wonder)' (2010) and '[Pretty Pictures](http://www.bantjes.com/pretty-pictures/about-book)' (2013).
 
-Two highlights of her success in 2010 include being awarded with an 'Honorary Doctorate of Letters' from the University she taught at, Emily Carr, and speaking at the TED Conference in Long Beach, California, which along with all her successes over the years, proved to Bantjes that her leap of faith into the unknown was a rewarding risk that shaped her into the highly reputable member of design she is today.
+Two highlights of her success in 2010 include being awarded with an 'Honorary Doctorate of Letters' from the University she taught at, Emily Carr, and speaking at the [TED Conference](https://www.ted.com/talks/marian_bantjes_intricate_beauty_by_design) in Long Beach, California, which along with all her successes over the years, proved to Bantjes that her leap of faith into the unknown was a rewarding risk that shaped her into the highly reputable member of design she is today.
 
 Wonderful Work
 --------------
@@ -79,7 +96,7 @@ Marian Bantjes has worked for a number of clients over the years, every single o
 
 ###2007
 
-Want It!
+####Want It!
 
 Michael Bierut at Pentagram designing the new identity for 'Saks Fifth Avenue', asked Bantjes to work on the Saks campaign, 'Want It!' using the script from the logo and adding flourishes to give it 'more swing'. Sketching a number of variations of concepts, Bantjes began to question whether she was the right person for the job and quit. However, the client came back to her and asked her to give it another try, finally finding a winner.
 
@@ -106,8 +123,7 @@ Want it bags
 
 -->
 
-
-Sugar
+####Sugar
 
 <!--'Indestructible' image-->
 
@@ -119,7 +135,7 @@ Bantjes very first sugar piece, 'Indestructible', a personal project in 2006, be
 
 A project for Stefan Sagmeister that materialized from seeing Bantjes sugar piece for 'Fox River Paper' portfolio which came from her personal project, 'Indestructible', she created experimenting with food. This personal project helped Bantjes to gain fame for her creative ways, bringing  -->
 
-All Purpose Jeans
+####All Purpose Jeans
 
 Commissioned by Alessandro Tomassetti, owner of the clothing line 'All Purpose', to create elaborate designs to stitch onto the pockets of his jeans.
 
@@ -130,13 +146,13 @@ Commissioned by Alessandro Tomassetti, owner of the clothing line 'All Purpose',
 ###2008
 
 
-Valentines '08
+####Valentines '08
 
 <!--image-->
 
 Personalised mail outs Bantjes created from using the shape of a heart to create an alphabet
 
-Saks Heart
+####Saks Heart
 
 <!--image-->
 
@@ -160,13 +176,15 @@ What made Bantjes passionate about the technique used was how the tinfoil allowe
 End of an Era
 ------------
 
-The previously mentioned book, 'Pretty Pictures' written by Bantjes (2013), is a chronological celebration of her work that defines the 'arc' in her career and philosophy in design, drawing a line under past work to allow her to move on to new things. 
+The previously mentioned book, '[Pretty Pictures](http://www.bantjes.com/pretty-pictures/about-book)' written by Bantjes (2013), is a chronological celebration of her work that defines the 'arc' in her career and philosophy in design, drawing a line under past work to allow her to move on to new things. 
 
-As a self-confessed 'Type-Nut', writing about Marian Bantjes has been an inspiring and educating experience; oblivious of the impact she had in the design world. Her story is encouraging to young designers and manifests the fact that if you are ambitious enough,
-you don't need a genie to make your wish come true.
+As a self-confessed 'Type-Nut', writing about Marian Bantjes has been an inspiring and educating experience; oblivious of the impact she had in the design world. Her story is encouraging to young designers and shows that with ambition and perseverance, success will follow.
 
 
 <!--
+
+Her story is encouraging to young designers and manifests the fact that if you are ambitious enough,
+you don't need a genie to make your wish come true.
 
 you really can become the person you aspire to be.
 
