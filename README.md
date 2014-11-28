@@ -20,3 +20,10 @@ marian-bantjes
 * Turning into HTML
 
 
+28/11/14
+--------
+
+* Changing Footnotes to Bibliography
+
+* Adding Structure
+
