@@ -27,3 +27,5 @@ marian-bantjes
 
 * Adding Structure
 
+* Adding Style
+
