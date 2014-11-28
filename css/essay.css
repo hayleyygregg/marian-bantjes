@@ -7,16 +7,38 @@
             
         font-family: "museo-slab", serif;
        line-height: 1.5;
+       margin: 0;
+       background-image: url(../images/marian-better.png) /* til i get the banner fixed */
+           
+        
         
         }
+
+
+/*
+header {
+    
+    background-image: url(../images/marian-background.png)
+
+    
+}
+*/
+
+
+
+
 
 
     article {
         
         width: 80%;
         margin: auto;
+       margin-top: 200px; /* til i get the banner fixed*/
         border: 1px solid grey;
+/*        border-top: none;*/
         padding: 40px;
+        background-color: white;
+
         
     }
 
@@ -29,6 +51,8 @@
 /*
         border-top: 1px solid grey;
         border-bottom: 1px solid grey;
+        width: 500px;
+        margin: auto;
 */
         
     }
@@ -193,5 +217,29 @@ a:hover {
     
     
 }
+
+
+/*
+#banner-image, #banner-image p {
+    
+    
+    padding: 0;
+    margin: 0;
+    
+    
+}
+
+
+
+
+#banner-image img { 
+    
+    display: block;
+    margin: auto;
+    height: 200px;
+    
+
+}
+*/
 
         
