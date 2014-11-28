@@ -1,0 +1,146 @@
+   /* Marian Bantjes Essay CSS */
+   
+   
+   
+   
+   body {
+            
+        font-family: "museo-slab", serif;
+       line-height: 1.5;
+        
+        }
+
+
+    article {
+        
+        width: 80%;
+        margin: auto;
+        
+    }
+
+
+    h1 {
+        
+        font-size: 3.157em;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        
+    }
+
+h2, #biblo {
+    
+        font-size: 2.369em;
+    
+    
+}
+
+
+    h1, h2, #biblo {
+        
+        text-align: center;
+        
+    }
+
+
+h3 {
+    
+    font-size: 1.777em;
+    
+}
+
+h4 {
+    
+    font-size: 1.333em;
+    
+    
+}
+
+
+
+
+h1, h2, h3, h4 {
+    
+    
+    font-weight: normal;
+    
+    
+}
+
+
+    #intro {
+        
+        text-align: left;
+        font-size: 1.333em;
+        
+    }
+
+
+hr { 
+    
+    border: none;
+    padding: 5px;
+
+}
+
+
+p {
+    
+    
+    padding: 5px;
+    
+    
+}
+
+
+
+
+
+
+        blockquote {
+         
+            margin-top: 60px;
+            
+        }
+        
+        
+        blockquote p {
+         
+            font-size: 1.333em;
+            color: #555;
+            border-left: 5px solid #d5d5d5;
+            padding-left: 20px;
+            
+            
+        }
+        
+        
+        #cite { 
+            
+            color: #555;
+            margin-bottom: 40px;
+            
+        }
+
+
+
+        #disguise-ol {
+            
+            padding: 5px 30px; /* inline with text at the minute */
+            padding-right: 0px;
+            
+        }
+
+
+        ol li {
+            
+            
+            
+            padding: 10px;
+            
+            
+        }
+
+
+
+
+        
