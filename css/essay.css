@@ -5,10 +5,15 @@
    
    body {
             
-        font-family: "museo-slab", serif;
+        font-family: "museo-slab", Baskerville, Georgia, 'Times New Roman', serif;
        line-height: 1.5;
        margin: 0;
-       background-image: url(../images/marian-better.png) /* til i get the banner fixed */
+       color: #2a2a2a;
+/*
+    background-image: url(../images/background.svg);
+    background-repeat: repeat-x;
+    background-size: 800px;
+*/
            
         
         
@@ -31,12 +36,12 @@ header {
 
     article {
         
-        width: 80%;
-        margin: auto;
-       margin-top: 200px; /* til i get the banner fixed*/
-        border: 1px solid grey;
-/*        border-top: none;*/
+        width: 70%;  /* was 80 before*/
+        margin: 0 auto;
+        border: 1px solid #d5d5d5;
+        border-top: none;
         padding: 40px;
+        margin-top: 0; /* close large gap above title */
         background-color: white;
 
         
@@ -48,6 +53,7 @@ header {
         font-size: 3.157em;
         text-transform: uppercase;
         letter-spacing: 1px;
+        margin-top: 0;
 /*
         border-top: 1px solid grey;
         border-bottom: 1px solid grey;
@@ -219,7 +225,6 @@ a:hover {
 }
 
 
-/*
 #banner-image, #banner-image p {
     
     
@@ -232,14 +237,36 @@ a:hover {
 
 
 
-#banner-image img { 
+#banner-image { 
+    
+    
     
     display: block;
-    margin: auto;
-    height: 200px;
+    margin: 0 auto;
+    height: 180px;
+    border: 1px solid #e81a55;
+/*    background-color: #e81a55;*/
+/*
+    background-image: url(../images/test.svg);
+    background-repeat: repeat-x;
     
+*/
 
 }
-*/
+
+#banner-image img {
+    
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 180px;
+    
+    
+/*    display: none;*/
+    
+}
+
+
 
         
