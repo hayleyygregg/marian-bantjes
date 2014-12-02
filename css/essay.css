@@ -55,7 +55,7 @@ header {
         font-size: 3.157em;
         text-transform: uppercase;
         letter-spacing: 1px;
-        margin-top: 170px; /* was 0 before added fixed position to banner image */
+        margin-top: 0px; /* was 170 when banner fixed */
 /*
         border-top: 1px solid grey;
         border-bottom: 1px solid grey;
@@ -266,7 +266,7 @@ a:visited {
     height: 180px;
     border: 1px solid #e81a55;
     width: 100%;
-    position: fixed; /* added for scrolling purposes */
+/*    position: fixed;  added for scrolling purposes */
 /*    background-color: #e81a55;*/
 /*
     background-image: url(../images/test.svg);
