@@ -5,7 +5,7 @@
    
    body {
             
-        font-family: "museo-slab", Baskerville, Georgia, 'Times New Roman', serif;
+        font-family: "museo-slab", 'Nixie One', Baskerville, Georgia, 'Times New Roman', serif;
        line-height: 1.5;
        margin: 0;
        color: #2a2a2a;
@@ -38,8 +38,10 @@ header {
         
         width: 70%;  /* was 80 before*/
         margin: 0 auto;
+/*
         border: 1px solid #d5d5d5;
         border-top: none;
+*/
         padding: 40px;
         margin-top: 0; /* close large gap above title */
         background-color: white;
@@ -53,15 +55,18 @@ header {
         font-size: 3.157em;
         text-transform: uppercase;
         letter-spacing: 1px;
-        margin-top: 0;
+        margin-top: 170px; /* was 0 before added fixed position to banner image */
 /*
         border-top: 1px solid grey;
         border-bottom: 1px solid grey;
         width: 500px;
         margin: auto;
 */
-        
+
     }
+
+
+
 
 h2, #biblo {
     
@@ -80,13 +85,17 @@ h2, #biblo {
 
 h3 {
     
-    font-size: 1.777em;
+    font-size: 4em; /* 1.777em */
+    color: #e81a55;
+    margin: 0;
+
     
 }
 
 h4 {
     
-    font-size: 1.333em;
+    font-size: 1.777em; /* 1.333em */
+    margin: 10px 0;
     
     
 }
@@ -103,7 +112,7 @@ h1, h2, h3, h4 {
 }
 
 
-    #intro {
+    .intro {
         
         text-align: left;
         font-size: 1.333em;
@@ -143,12 +152,13 @@ p {
          
             font-size: 1.333em;
             color: #555;
-            border-left: 5px solid #d5d5d5;
+            border-left: 5px solid #e81a55; /* was e81a55 before */
             padding-left: 20px;
             
             
         }
         
+
         
         .cite { 
             
@@ -183,6 +193,7 @@ footer {
     width: 300px; /* guestamit */
     display: block;
     margin: auto;
+    margin-top: 60px;
 
     
 }
@@ -219,10 +230,19 @@ a, a:link, footer a {
 
 a:hover {
     
-    color: #d5d5d5; /* or do this for visited? */
+    color: #e81a55; 
     
     
 }
+
+/*
+
+a:visited {
+    
+    color: #d5d5d5;
+    
+}
+*/
 
 
 #banner-image, #banner-image p {
@@ -245,6 +265,8 @@ a:hover {
     margin: 0 auto;
     height: 180px;
     border: 1px solid #e81a55;
+    width: 100%;
+    position: fixed; /* added for scrolling purposes */
 /*    background-color: #e81a55;*/
 /*
     background-image: url(../images/test.svg);
