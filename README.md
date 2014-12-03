@@ -45,3 +45,5 @@ marian-bantjes
 * Adding Images to List Items
 
 * More Styling 
+
+* Adding Figures & Captions (Images)

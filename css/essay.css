@@ -369,5 +369,29 @@ a:visited {
 }
 
 
+figure {
+    width: 80%;
+    display: block;
+    margin: 40px auto;
+    text-align: center;
+    
+    
+}
+
+/*
+
+figure img {
+    
+    width: 80%;
+    
+}
+*/
+
+
+figcaption {
+    
+    font-size: 0.8em;
+    
+}
 
         
