@@ -29,3 +29,19 @@ marian-bantjes
 
 * Adding Style
 
+
+2/12/14
+--------
+
+
+* Adding Banner Image
+
+* Adding Typekit Fonts
+
+
+3/12/14
+-------
+
+* Adding Images to List Items
+
+* More Styling 
