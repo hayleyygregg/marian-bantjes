@@ -61,7 +61,10 @@ header {
         border-bottom: 1px solid grey;
         width: 500px;
         margin: auto;
+        
+        
 */
+        
 
     }
 
@@ -88,6 +91,12 @@ h3 {
     font-size: 4em; /* 1.777em */
     color: #e81a55;
     margin: 0;
+/* thin not working
+    font-family: 'proxima-nova-alt';
+    font-style: normal;
+    font-weight: 100;
+*/
+
 
     
 }
@@ -156,7 +165,9 @@ p {
             padding-left: 20px;
             
             
+            
         }
+
         
 
         
