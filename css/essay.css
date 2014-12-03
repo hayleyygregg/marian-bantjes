@@ -182,8 +182,9 @@ p {
 
         #disguise-ol {
             
-            padding: 5px 30px; /* inline with text at the minute */
+            padding: 5px; /* 2nd one was 30px changed when image added */
             padding-right: 0px;
+            list-style: none;
             
         }
 
@@ -196,6 +197,41 @@ p {
             
             
         }
+
+        li#number-1 {
+        
+        
+        background: url(../images/number-12.png) no-repeat;
+        padding-left: 120px;
+        height: 150px;
+
+
+            
+                    
+/*        list-style-image: url(../images/number-1.png);*/
+        
+
+            
+        }
+
+
+        li#number-2 {
+        
+        
+        background: url(../images/number-12.png) no-repeat;
+        padding-left: 120px;
+
+
+
+            
+                    
+/*        list-style-image: url(../images/number-1.png);*/
+        
+
+            
+        }
+
+
 
 
 
