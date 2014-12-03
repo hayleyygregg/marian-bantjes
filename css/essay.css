@@ -9,6 +9,7 @@
        line-height: 1.5;
        margin: 0;
        color: #2a2a2a;
+       font-size: 100%;
 /*
     background-image: url(../images/background.svg);
     background-repeat: repeat-x;
@@ -141,8 +142,15 @@ p {
     
     
     padding: 5px;
+    line-height: 1.8;
+    font-size: 1.1em;
     
     
+}
+
+
+p.intro {
+    line-height: 1.5;
 }
 
 
@@ -182,7 +190,7 @@ p {
 
         #disguise-ol {
             
-            padding: 5px; /* 2nd one was 30px changed when image added */
+            padding: 5px;  was 5px 30px; before images added to li 
             padding-right: 0px;
             list-style: none;
             
@@ -194,10 +202,51 @@ p {
             
             
             padding: 10px;
+
             
             
         }
 
+
+
+        #disguise-ol li {
+            
+            padding-left: 0;
+            line-height: 1.8;
+            font-size: 1.1em;
+/*
+            float: left;
+            clear: both;
+*/
+            
+        }
+
+
+        li.dropcap {
+            
+            display: block;
+            width: 100px;
+            float: left;
+            padding-right: 20px;
+            clear:both;
+            
+            
+        }
+
+
+        .image-li {
+            
+            
+float: left;
+        margin: 10px 0;
+            
+            
+        }
+
+
+
+
+/*
         li#number-1 {
         
         
@@ -208,40 +257,21 @@ p {
 
             
                     
-/*        list-style-image: url(../images/number-1.png);*/
+        list-style-image: url(../images/number-1.png);
         
 
             
         }
-
-
-        li#number-2 {
-        
-        
-        background: url(../images/number-12.png) no-repeat;
-        padding-left: 120px;
-
-
-
-            
-                    
-/*        list-style-image: url(../images/number-1.png);*/
-        
-
-            
-        }
-
+*/
 
 
 
 
 footer {
     
-    width: 300px; /* guestamit */
+    width: 50%; /* was 300px but this is better */
     display: block;
-    margin: auto;
-    margin-top: 60px;
-
+    margin: 60px auto;
     
 }
 
@@ -252,6 +282,7 @@ footer p {
     
     display: inline;
     text-align: center;
+    font-size: 1em;
     
     
 }
@@ -259,6 +290,7 @@ footer p {
 footer p#middle-line {
     
     border-left: 1px solid grey;
+    padding-left: 10px;
     
     
     
