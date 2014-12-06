@@ -5,11 +5,13 @@
    
    body {
             
-        font-family: "museo-slab", 'Nixie One', Baskerville, Georgia, 'Times New Roman', serif;
+        font-family: /*"museo-slab",*/ 'Nixie One', Baskerville, Georgia, 'Times New Roman', serif;
        line-height: 1.5;
        margin: 0;
        color: #2a2a2a;
        font-size: 100%;
+       font-weight: 500;
+
 /*
     background-image: url(../images/background.svg);
     background-repeat: repeat-x;
@@ -126,6 +128,7 @@ h1, h2, h3, h4 {
         
         text-align: left;
         font-size: 1.333em;
+        font-weight: 800;
         
     }
 
@@ -171,6 +174,7 @@ p.intro {
             color: #555;
             border-left: 5px solid #e81a55; /* was e81a55 before */
             padding-left: 20px;
+            font-weight: 800;
             
             
             
@@ -183,6 +187,15 @@ p.intro {
             
             color: #555;
             margin-bottom: 40px;
+
+            
+        }
+
+
+        cite {
+            
+                        font-style: normal; /* stop inheriting italic  */
+            font-weight: 600;
             
         }
 
@@ -271,6 +284,7 @@ footer {
     width: 50%; /* was 300px but this is better */
     display: block;
     margin: 60px auto;
+    font-weight: 600;
     
 }
 
@@ -373,6 +387,7 @@ figure {
     display: block;
     margin: 40px auto;
     text-align: center;
+
     
     
 }
@@ -390,6 +405,7 @@ figure img {
 figcaption {
     
     font-size: 0.8em;
+        font-family: 'museo-slab', 'Nixie One', Baskerville, Georgia, 'Times New Roman', serif;
     
 }
 
