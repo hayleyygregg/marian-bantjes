@@ -47,3 +47,9 @@ marian-bantjes
 * More Styling 
 
 * Adding Figures & Captions (Images)
+
+
+07/01/15
+--------
+
+* Adding/Changing Images (Tried to make 'Indestructable' Image bigger to fit with the rest but image quality too bad)
