@@ -1,6 +1,8 @@
 marian-bantjes
 ==============
 
+[Essay](http://hayleyygregg.github.io/marian-bantjes/essay.html)
+
 
 10/11/14 
 ---------
